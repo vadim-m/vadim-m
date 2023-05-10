@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=400&color=0969DA&vCenter=true&multiline=true&width=435&height=80&lines=+Hi+there+%F0%9F%91%8F;My+name+is+Vadim!;+I+am+web+developer+from+Moscow+%F0%9F%87%B7%F0%9F%87%BA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=400&color=0969DA&vCenter=true&multiline=true&width=435&height=90&lines=+Hi+there+%F0%9F%91%8F;My+name+is+Vadim!;+I+am+web+developer+from+Moscow+%F0%9F%87%B7%F0%9F%87%BA)](https://git.io/typing-svg)
 
 Hi, I am Vadim from Moscow. About:
 
