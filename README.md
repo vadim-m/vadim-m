@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-s://github-readme-streak-stats.herokuapp.com/?user=vadim-m)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vadim-m)](https://git.io/streak-stats)
 
 <!--
 **vadim-m/vadim-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
