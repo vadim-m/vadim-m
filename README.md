@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=400&color=0969DA&vCenter=true&multiline=true&width=435&height=80&lines=+Hi+there+%F0%9F%91%8F;My+name+is+Vadim!;+I+am+web+developer+from+Moscow+%F0%9F%87%B7%F0%9F%87%BA)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 Hi, I am Vadim from Moscow. About:
 
 - 🔭 I’m currently working on ...
@@ -10,6 +8,7 @@ Hi, I am Vadim from Moscow. About:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.codewars.com/users/vadim_mm)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.codewars.com/users/vadim_mm)
