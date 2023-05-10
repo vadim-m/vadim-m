@@ -1,10 +1,14 @@
 ### Hi there 👋
 
+Hi, I am Vadim from Moscow. About:
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+ 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vadim-m&theme=github)
-
-
-
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.codewars.com/users/vadim_mm)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.codewars.com/users/vadim_mm)
