@@ -6,7 +6,8 @@
 
 [![codewars](https://www.codewars.com/users/vadim_mm/badges/small)](https://www.codewars.com/users/vadim_mm)
 
-	[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.codewars.com/users/vadim_mm)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.codewars.com/users/vadim_mm)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.codewars.com/users/vadim_mm)
 	
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.codewars.com/users/vadim_mm)
 
