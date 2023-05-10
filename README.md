@@ -3,8 +3,12 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vadim-m&theme=github)
 
+
 [![codewars](https://www.codewars.com/users/vadim_mm/badges/small)](https://www.codewars.com/users/vadim_mm)
+
 	[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.codewars.com/users/vadim_mm)
+	
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.codewars.com/users/vadim_mm)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
