@@ -11,7 +11,7 @@ Hi, I am Vadim from Moscow. About:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.codewars.com/users/vadim_mm)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://www.codewars.com/users/vadim_mm)
-[![My site](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.codewars.com/users/vadim_mm)
+[![My site](https://img.shields.io/badge/web-vm-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.codewars.com/users/vadim_mm)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nefedovds@ya.ru)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)](https://www.codewars.com/users/vadim_mm)
 
