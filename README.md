@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vadim-m)](https://git.io/streak-stats)
+[![codewars](https://www.codewars.com/users/username/badges/small)]([https://www.codewars.com/users/username](https://www.codewars.com/users/vadim_mm)) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
