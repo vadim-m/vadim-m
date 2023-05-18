@@ -2,9 +2,13 @@
 
 Hi, I am a web developer from Moscow. About me:
 
-- 👯 HTML, CSS, Javascript, Git, Webpack
-- 🤔 Node.js, Express, MongoDB
-- 🌐 My website [web-vm.ru](https://web-vm.ru)
+- 💻 HTML, CSS, Javascript, Git, Webpack
+- 💾 Node.js, Express, MongoDB
+- 🏅 My [Projects](https://web-vm.ru/projects)
+- 📄 My [CV](https://web-vm.ru/cv)
+- 🌏 My website [web-vm.ru](https://web-vm.ru)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadim-m&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
